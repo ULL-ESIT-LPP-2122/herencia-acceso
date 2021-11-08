@@ -2,6 +2,7 @@
 
 * Herencia
 * Encapsulamiento
-	Métodos de acceso
+
+	* Métodos de acceso
 
 
